@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ñëîé_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 450" style="enable-background:new 0 0 600 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;fill:#D4088C;}
+	.st1{fill:#6EE8FC;}
+	.st2{fill:#D4088C;}
+	.st3{fill:#6EE1F8;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="242" cy="69.8" r="2.5"/>
+		<circle class="st0" cx="198.3" cy="323.4" r="3"/>
+		<circle class="st1" cx="179.2" cy="310.1" r="1.5"/>
+		<circle class="st1" cx="441.8" cy="253" r="1.6"/>
+		<g>
+			<circle class="st1" cx="145.3" cy="145.1" r="2.3"/>
+			<circle class="st1" cx="313.5" cy="63" r="2.3"/>
+			<circle class="st1" cx="155.5" cy="140.1" r="1.2"/>
+		</g>
+		<circle class="st2" cx="369.8" cy="71" r="1.5"/>
+	</g>
+	<g>
+		<g>
+			<polygon class="st3" points="155,218.9 154.5,216.9 158.7,215.7 157.5,211.4 159.5,210.9 161.2,217.1 			"/>
+		</g>
+		<g>
+			<polygon class="st3" points="151.2,225.6 150.7,223.6 155,222.4 153.8,218.2 155.7,217.6 157.4,223.8 			"/>
+		</g>
+		<g>
+			<polygon class="st3" points="155.2,223.4 153.5,217.2 159.7,215.5 160.2,217.4 156,218.6 157.2,222.9 			"/>
+		</g>
+	</g>
+	<path class="st3" d="M302.9,75.8c-2.6,0-4.8-2.1-4.8-4.8s2.1-4.8,4.8-4.8s4.8,2.1,4.8,4.8S305.5,75.8,302.9,75.8z M302.9,68.3
+		c-1.5,0-2.8,1.2-2.8,2.8c0,1.5,1.2,2.8,2.8,2.8c1.5,0,2.8-1.2,2.8-2.8C305.7,69.5,304.4,68.3,302.9,68.3z"/>
+	<path class="st3" d="M407.3,313.9l-5.4-5.4l5.4-5.4l5.4,5.4L407.3,313.9z M404.8,308.5l2.6,2.6l2.6-2.6l-2.6-2.6L404.8,308.5z"/>
+	<g>
+		
+			<rect x="418.3" y="119.4" transform="matrix(0.7072 0.707 -0.707 0.7072 208.7974 -263.3883)" class="st2" width="8.2" height="2"/>
+		
+			<rect x="421.4" y="116.3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 208.828 -263.4053)" class="st2" width="2" height="8.2"/>
+	</g>
+</g>
+<circle class="st2" cx="125.9" cy="186.7" r="1.5"/>
+</svg>
